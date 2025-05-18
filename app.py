@@ -250,7 +250,7 @@ elif st.session_state.show_birthday:
     # Personal message - Updated with last year's sentiment
     st.markdown("""
     <div style='text-align: center; padding: 20px; background-color: rgb(255, 105, 180); border-radius: 10px; margin: 20px 0;'>
-        <h2>To my amazing friend and former manager,</h2>
+        <h2>To my amazing friend and mentor,</h2>
         <p style='font-size: 18px;'>
             Last year, I wrote about our journey together - how your guidance became foundational to my way of thinking.
             How without your guidance, I wouldn't be where I am today.
