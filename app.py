@@ -277,7 +277,7 @@ elif st.session_state.show_birthday:
     # Generate and display a birthday card
     st.subheader("Your Birthday Card")
     card_image = create_birthday_card("My Wonderful Mentor")  # Updated the name
-    st.image(card_image, use_column_width=True)
+    st.image(card_image, use_container_width=True)
     
     # Add personalized meaningful content instead of generic charts
     st.subheader("Our Journey Together")
